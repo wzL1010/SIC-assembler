@@ -1,9 +1,11 @@
 # SIC Assembler
 ## 使用方式
 使用cmd執行java檔 並輸入要讀入的文字檔檔名，若未輸入檔名則無法開始執行。
+
 ![](https://i.imgur.com/zNuzdyh.png)
 
 成功執行後會將結果顯示出來，並輸出List與ObjectCode的文字檔。
+
 ![](https://i.imgur.com/P40eaE4.png)
 
 ## 可處理的格式輸入
